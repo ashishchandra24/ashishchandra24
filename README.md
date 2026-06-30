@@ -39,6 +39,7 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 * 💻 Building real-world frontend projects
 * 🚀 Passionate about clean UI & smooth user experience
 * 📚 Always exploring modern web technologies
+* ✨ Strong problem-solving mindset
 * 🎯 Goal: Become a Full Stack Developer
 
 ---
