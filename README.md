@@ -73,31 +73,6 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 ---
 
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ashishchandra24&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishchandra24&theme=tokyo-night"/>
-
-</p>
-
----
-
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
