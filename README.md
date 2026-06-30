@@ -73,15 +73,6 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithashish&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
@@ -89,7 +80,7 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithashish&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishchandra24&theme=tokyo-night"/>
 
 </p>
 
