@@ -52,27 +52,6 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" height="40"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
