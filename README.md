@@ -59,11 +59,12 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-
-
-
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 
 </p>
