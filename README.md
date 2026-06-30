@@ -1,5 +1,3 @@
-
-
 <!--
 **ashishchandra24/ashishchandra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,9 +59,8 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+
+
 
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
