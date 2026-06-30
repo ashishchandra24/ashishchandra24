@@ -52,6 +52,7 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 </p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -66,13 +67,15 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithashish&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishchandra24&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithashish&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchandra24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
