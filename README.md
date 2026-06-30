@@ -52,6 +52,19 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</p>
 
 ## 📊 GitHub Stats
 
@@ -86,19 +99,6 @@ I enjoy turning ideas into clean, interactive, and high-performance digital expe
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</p>
 
 ---
 
